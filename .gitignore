@@ -1,0 +1,37 @@
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Plot outputs
+plots/*/
+plots/*.png
+plots/*.jpg
+plots/*.pdf
+
+# Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
