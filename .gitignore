@@ -3,12 +3,6 @@ data/*.csv
 data/*.xlsx
 data/*.json
 
-# Plot outputs
-plots/*/
-plots/*.png
-plots/*.jpg
-plots/*.pdf
-
 # Cache files
 __pycache__/
 *.py[cod]
