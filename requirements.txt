@@ -12,7 +12,7 @@ scikit-learn>=1.0.0
 
 # Signal processing
 scipy>=1.7.0
-PyWavelets>=1.8.0  # PyWavelets package for wavelet transforms
+pywavelets>=1.2.0  # Changed from PyWavelets to lowercase pywavelets
 
 # Interactive visualizations (optional but recommended)
 plotly>=5.3.0
